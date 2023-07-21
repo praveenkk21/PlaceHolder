@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class trial {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub --
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\praveenkumar\\Documents\\chromedriver_win32 (2)\\chromedriver3.exe");
 		DesiredCapabilities des = DesiredCapabilities.chrome();
