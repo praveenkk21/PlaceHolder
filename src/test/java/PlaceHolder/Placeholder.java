@@ -27,7 +27,7 @@ import com.beust.jcommander.Strings;
 
 @SuppressWarnings("unused")
 public class Placeholder {
-	static WebDriver driver;
+	static WebDriver driver ;
 	static String username, password, Client, intakeClient, subformname, subformfrom, site;
 	static String subformlibraryid, filePath;
 
